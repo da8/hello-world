@@ -3,7 +3,7 @@ The usual "Hello World" example :-)
 
 Hello everyone,
 
-my first example working with. It is amazing :-)
+my first example working with github. It is amazing :-)
 
 Best regards,
 
